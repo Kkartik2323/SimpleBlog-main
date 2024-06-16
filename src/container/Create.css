@@ -1,0 +1,31 @@
+.containercreate{
+    background-color: rgb(247, 215, 220);
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 10%;
+    margin:10px;
+    box-shadow: 10px 10px 8px #888888;
+}
+.formimage{
+    /* background-color: purple; */
+    width:100px;
+    height: 100px;
+}
+.setimage{
+    height: 100px;
+    width:70px
+}
+input{
+    width:80vw; 
+    height: 5vh;
+    justify-self: center;
+    margin:1%;
+}
+textarea{
+    width:80vw;
+    height: 5vh;
+    justify-self: center;
+    margin:1%;
+    margin-top: 0%;
+}

@@ -1,0 +1,35 @@
+.bodycontainer{
+    background-color: #E8E8E8;
+    height: 75vh;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.firstblog{
+    width:90%;
+    height: 43vh;
+    /* background-color: red; */
+    margin-top: 15px;
+    display: flex;
+    gap:10%;
+    box-shadow: 10px 10px 8px 10px #888888;
+
+
+}
+.imagesec{
+    width: 30vw;
+    height:96%;
+    margin: 0.5%;
+    /* background-color: yellow; */
+   
+    
+}
+.kasaf{
+    width: 100%;
+    height:100%;
+}
+.messagesec{
+    /* background-color: green; */
+    width: 100%;
+}

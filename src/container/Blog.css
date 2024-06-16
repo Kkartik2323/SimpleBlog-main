@@ -1,0 +1,22 @@
+.container-blog{
+    margin:1%;
+    background-color: rgb(236, 218, 218);
+    display: flex;
+    box-shadow: 10px 10px 8px #888888;
+}
+.imageblog{
+/* background-color: yellow; */
+    width:40%;
+}
+.contentblog{
+margin:1%;
+/* background-color: green; */
+width: 100%;
+}
+.bloginside{
+    margin:1%;
+}
+.button{
+    border-radius: 25%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
